@@ -18,7 +18,7 @@
 ├── README.md               # 项目说明文档
 ├── report.ipynb            # 核心分析
 ├── docs/                   # 历史原始文献 (Buffon, Laplace)
-├──assets/                  # 分析图表与示意图
+├── assets/                  # 分析图表与示意图
 └── monte_carlo/            # 蒙特卡洛模拟代码和蒙特卡洛模拟论文
 
 ---
