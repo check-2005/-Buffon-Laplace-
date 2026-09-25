@@ -20,8 +20,8 @@
 ├── docs/                   # 历史原始文献 (Buffon, Laplace)
 ├── assets/                  # 分析图表与示意图
 └── monte_carlo/            # 蒙特卡洛模拟代码和蒙特卡洛模拟论文
-
----
+```
+
 
 ## ⚖️ 免责声明 (Disclaimer)
 文献版权：本项目收录的 18/19 世纪原始文献（如 Buffon, Laplace 著作）均出于学术研究与学习目的，且原著已属于公有领域（Public Domain）。本项目不持有相关文献的版权。
